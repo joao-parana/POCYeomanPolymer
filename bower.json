@@ -1,0 +1,13 @@
+{
+  "name": "x-names",
+  "description": "Provides a names and profiles list",
+  "version": "1.0.0",
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.2"
+  },
+  "devDependencies": {
+    "closure-compiler" : "http://dl.google.com/closure-compiler/compiler-latest.zip",
+    "web-component-tester": "Polymer/web-component-tester#^2.0.5"
+  }
+
+}
